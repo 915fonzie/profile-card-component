@@ -30,7 +30,7 @@ Built a profile card with a simple background theme.
 
 ### Links
 
-- Live Site URL: [Live Site Demo](https:profilecardcomponent.netlify.app)
+- Live Site URL: [Live Site Demo](https://profile-card-component-example.netlify.app/)
 
 ## My process
 
