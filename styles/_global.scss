@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+p {
+    color: $grayish-blue;
+}
+
+h2,
+p,
+a {
+  font-family: "Kumbh Sans", sans-serif;
+}
